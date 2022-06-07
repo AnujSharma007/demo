@@ -1,0 +1,4 @@
+acc num            name
+1001            ishwar
+1002            roshni
+1003            rani
